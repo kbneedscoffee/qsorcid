@@ -3,22 +3,10 @@
 In this guide, new users will learn how to register for an ORCID iD and how to add information to an ORCID profile. The guide covers the basics to get new users started quickly. Relevant support documentation from ORCID is linked periodically throughout if needed.
 
 **Contents**
-- [1 Introduction](#introduction)
-    - 1.1 What is ORCID?
-    - 1.2 Benefits of an ORCID
-- [2 Getting started](#getting-started)
-    - 2.1 Registration
-    - 2.2 Creating an ORCID iD
-- 3 Adding information to an ORCID Profile
-    - 3.1 Visibility
-    - 3.2 Personal information
-    - 3.2 Employment information
-    - 3.3 Education and qualifications
-    - 3.4 Invited positions and distinctions
-    - 3.5 Membership and service
-    - 3.6 Funding
-    - 3.7 Works
-- [4 Getting help](#Getting-help)
+- [Introduction](#introduction)
+- [Getting started](#getting-started)
+- [Adding information to an ORCID profile](#Adding-information-to-an-ORCID-profile)
+- [Getting help](#Getting-help)
 
 ## Introduction
 ### What is ORCID?

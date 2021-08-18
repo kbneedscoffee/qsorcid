@@ -6,7 +6,7 @@ In this guide, new users will learn how to register for an ORCID iD and how to a
 - [1 Introduction](#introduction)
     - 1.1 What is ORCID?
     - 1.2 Benefits of an ORCID
-- 2 Getting Started
+- [2 Getting started](#getting-started)
     - 2.1 Registration
     - 2.2 Creating an ORCID iD
 - 3 Adding information to an ORCID Profile
@@ -18,7 +18,7 @@ In this guide, new users will learn how to register for an ORCID iD and how to a
     - 3.5 Membership and service
     - 3.6 Funding
     - 3.7 Works
-- 4 Getting help
+- [4 Getting help](#Getting-help)
 
 ## Introduction
 ### What is ORCID?
